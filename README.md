@@ -19,7 +19,7 @@
 ## 📖 About me
 
 - 🤠 Born in the USA
-- 📜 B.S. in Computer Science from JMU
+- 📜 B.S. in Computer Science
 - 🌐 Studying front-end development, particularly React
 
 ## ⭐ Fun facts!
