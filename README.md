@@ -12,7 +12,7 @@
 
 </div>
 
-### I'm a full-stack developer from Washington D.C. 🏛️🦅
+### I'm a software engineer from Washington D.C. 🏛️🦅
 
 </div>
 
